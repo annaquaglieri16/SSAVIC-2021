@@ -322,17 +322,15 @@ Being a spline turned out to be a good fit for me.
 <img class="circle" src="figures/join-md.png" width="900px" height = "400px"/>
 
 
----
-
-## Acknowledgement
-
-These slides were created using the `{xaringan}` 📦 by Yihui Xie (2021). xaringan: Presentation Ninja. R package version 0.22. https://CRAN.R-project.org/package=xaringan 
-
 
 ---
-# Any question?
+# You can fine me at
 
-You can fine me at:
 
 - [`r fa(name = "twitter")` @annaquagli](https://twitter.com/annaquagli)
 - [`r fa(name = "github")` @annaquaglieri16](https://github.com/annaquaglieri16) 
+
+
+.footnote[
+These slides were created using the `{xaringan}` 📦 by Yihui Xie (2021). xaringan: Presentation Ninja. R package version 0.22. https://CRAN.R-project.org/package=xaringan 
+]
