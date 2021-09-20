@@ -1,4 +1,4 @@
 README
 ================
 
-Slides available at <https://user2021-rladies-melbourne.netlify.app/#1>
+Slides available at <https://ssavic2021.netlify.app>
